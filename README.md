@@ -1,7 +1,6 @@
-# SIGMOD2025-Bs-tree
+# DAMON-2025-BsTree
 Code for  ** Bs-tree: A data-parallel B+-tree for main memory **
 
-Paper ID: 1350 
 
 ## Dependencies
 - g++-13/gcc-13
