@@ -54,6 +54,7 @@ Our repository contains three approaches:
 - Bs-tree, which executes the original Bs-tree.
 - Compact Bs-tree, which executes the compact version of the Bs-tree.
 - Decision Bs-tree, which analyzes the dataset to determine which of the above approaches to use.
+- Bs-tree OLC, whicht executes the parallel version of bs-tree.
 
 
 ## Examples
