@@ -9,7 +9,7 @@ Code for  ** Bs-tree: A data-parallel B+-tree for main memory **
 
 ## Data
 ### Download
-We have uploaded a sample of Facebook data in this Google Drive link ([link](https://drive.google.com/drive/folders/1LPJeu82qi4uz90JjjMcQ6luNVRGNwM1A)). The folder contains the following files:
+We have uploaded a sample of Facebook data in this Google Drive link ([link](https://drive.google.com/drive/folders/1e1SMt8VjAGEc-yS7CovtfutmzPktcBjE?usp=sharing)). The folder contains the following files:
 - construction_fb_50M.txt: Index construction for 50 million entries.
 - read_fb_10M.txt: 10 million entries (read-only).
 - write_fb_10M.txt: 10 million entries (write-only).
