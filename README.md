@@ -38,6 +38,7 @@ Compile using ```make all``` or ```make <option>``` where `<option>` can be one 
 - bstree
 - compact_bstree
 - decision_bstree
+- bstre_olc
 
 Our code takes the construction dataset and the workload dataset as input arguments, in that order.
 To run :
@@ -45,6 +46,7 @@ To run :
     ./bstree <construction dataset> <workload dataset>
     ./compact_bstree <construction dataset> <workload dataset>
     ./decision_bstree <construction dataset> <workload dataset>
+    ./bstree_olc <construction dataset> <workload dataset>
 ```
 
 ## Indices
@@ -55,7 +57,7 @@ Our repository contains three approaches:
 
 
 ## Examples
-We have also included a file named run_example.sh, which you can use to execute all our indices on all workloads using the sample datasets. You only need to update the PATH and PATH_CONSTRUCTION variables.
+We have also included a file named run_example.sh, which you can use to execute all our indices single-threaded on all workloads using the sample datasets. You only need to update the PATH and PATH_CONSTRUCTION variables.
 
 To run:
 ```
