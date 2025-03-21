@@ -38,7 +38,7 @@ Compile using ```make all``` or ```make <option>``` where `<option>` can be one 
 - bstree
 - compact_bstree
 - decision_bstree
-- bstre_olc
+- bstree_olc
 
 Our code takes the construction dataset and the workload dataset as input arguments, in that order.
 To run :
