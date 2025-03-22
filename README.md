@@ -1,5 +1,5 @@
 # DAMON-2025-BsTree
-Code for  ** Bs-tree: A data-parallel B+-tree for main memory **
+Code for  [** Bs-tree: A data-parallel B+-tree for main memory **](Bs-tree:_A_data-parallel _B+-tree.pdf)
 
 [Contribution guidelines for this project](README.md)
 
