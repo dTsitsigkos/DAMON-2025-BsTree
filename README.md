@@ -1,6 +1,7 @@
 # DAMON-2025-BsTree
 Code for  ** Bs-tree: A data-parallel B+-tree for main memory **
 
+[Contribution guidelines for this project](README.md)
 
 ## Dependencies
 - g++-13/gcc-13
